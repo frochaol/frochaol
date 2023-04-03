@@ -2,7 +2,7 @@
 
 ### Currently Learning Projects:
 
-- [**Scrumdinger:**](https://github.com/frochaol/scrumdinger) Swift 5 - Official project provided from Apple to lear Swift and Swift UI.
+- [**Scrumdinger:**](https://github.com/frochaol/scrumdinger) Swift 5 - Official project provided from Apple to learn Swift and Swift UI.
 
 
 ### Full apps: 
